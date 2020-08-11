@@ -1,7 +1,7 @@
 ### Hi there, I'm Sebi 👋
 
 ## I'm a Student and a passionate Developer!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play piano
 
