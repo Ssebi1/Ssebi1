@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I love to play piano and to swim
 
 ### Personal Website:
-https://dancau-sebastian.herokuapp.com
+https://www.dancau-sebastian.com
 
 ### Connect with me:
 
