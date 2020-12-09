@@ -2,7 +2,6 @@
 
 ## I'm a Student and a passionate Developer!
 - 🌱 I’m currently learning everything
-- ⚡ Fun fact: I love to play piano and to swim
 
 ### Personal Website:
 https://www.dancau-sebastian.com
